@@ -15,7 +15,7 @@
 
 :octocat: [GitHub](https://github.com/kako-jun) | :house_with_garden: [公式サイト](https://llll-ll.com)
 
-[Twitter](https://twitter.com/kako_jun_42) | [Instagram](https://www.instagram.com/kako_jun_42) | [はてなブックマーク](https://b.hatena.ne.jp/kako-jun) | [FF14](https://jp.finalfantasyxiv.com/lodestone/character/39124727/)
+[Twitter](https://twitter.com/kako_jun_42) | [Instagram](https://www.instagram.com/kako_jun_42) | [はてなブックマーク](https://b.hatena.ne.jp/kako-jun) | [Zenn](https://zenn.dev/kako_jun) | [FF14](https://jp.finalfantasyxiv.com/lodestone/character/39124727/)
 
 私に連絡したい場合は、Twitter、公式サイトのBBS、GitHubのIssue、FF14の中などでお願いします
 
