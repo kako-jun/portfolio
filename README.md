@@ -12,13 +12,19 @@
 
 営利目的では作れないようなゲーム、ツール、サービスを作ります
 
-:octocat: [GitHub](https://github.com/kako-jun) | :house_with_garden: [Website](https://llll-ll.com)
+:octocat: [GitHub](https://github.com/kako-jun) | :house_with_garden: [公式サイト](https://llll-ll.com)
 
 [Twitter](https://twitter.com/kako_jun_42) | [Instagram](https://www.instagram.com/kako_jun_42) | [はてなブックマーク](https://b.hatena.ne.jp/kako-jun) | [FF14](https://jp.finalfantasyxiv.com/lodestone/character/39124727/)
 
 私に連絡したい場合は、Twitter、公式サイトのBBS、GitHubのIssue、FF14の中などでお願いします
 
 ## Quick Start Guide
+
+:house_with_garden: [公式サイト](llll-ll.com) にアクセスすると、これまで作ったものの一覧が表示されます
+
+興味ありそうなものを適当にクリックしてみてください
+
+ゲーム、ツール、サービスのほとんどは、クリックするだけで開始され、体験できるはずです
 
 ## Privacy Policy
 
